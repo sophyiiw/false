@@ -17,6 +17,27 @@ const dishes = [
     price: 12,
     image: "salad.jpeg",
     alt: "A pasta salad"
+  },
+  {
+    name: "Greek Salad", // Menu baru ketiga
+    description: "Tomatoes, cucumber, olives, and feta cheese",
+    price: 11,
+    image: "greeksalad.jpg", // Gambar menu Greek Salad
+    alt: "A Greek salad"
+  },
+  {
+    name: "Veggie Burger", // Menu baru keempat
+    description: "Vegetable patty, lettuce, tomato, and cheese",
+    price: 14,
+    image: "veggie burger.jpeg", // Gambar menu Veggie Burger
+    alt: "A veggie burger"
+  },
+  {
+    name: "Hummus", // Menu baru kelima
+    description: "Chickpeas, tahini, lemon, and olive oil",
+    price: 9,
+    image: "hummus.jpeg", // Gambar menu Hummus
+    alt: "A bowl of hummus"
   }
 ];
 
